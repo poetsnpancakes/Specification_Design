@@ -1,0 +1,14 @@
+C:\Users\Ayush\source\repos\Data\bin\Debug\net8.0\SD_Data.deps.json
+C:\Users\Ayush\source\repos\Data\bin\Debug\net8.0\SD_Data.runtimeconfig.json
+C:\Users\Ayush\source\repos\Data\bin\Debug\net8.0\SD_Data.dll
+C:\Users\Ayush\source\repos\Data\bin\Debug\net8.0\SD_Data.pdb
+C:\Users\Ayush\source\repos\Data\obj\Debug\net8.0\SD_Data.csproj.AssemblyReference.cache
+C:\Users\Ayush\source\repos\Data\obj\Debug\net8.0\SD_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayush\source\repos\Data\obj\Debug\net8.0\SD_Data.AssemblyInfoInputs.cache
+C:\Users\Ayush\source\repos\Data\obj\Debug\net8.0\SD_Data.AssemblyInfo.cs
+C:\Users\Ayush\source\repos\Data\obj\Debug\net8.0\SD_Data.csproj.CoreCompileInputs.cache
+C:\Users\Ayush\source\repos\Data\obj\Debug\net8.0\SD_Data.dll
+C:\Users\Ayush\source\repos\Data\obj\Debug\net8.0\refint\SD_Data.dll
+C:\Users\Ayush\source\repos\Data\obj\Debug\net8.0\SD_Data.pdb
+C:\Users\Ayush\source\repos\Data\obj\Debug\net8.0\SD_Data.genruntimeconfig.cache
+C:\Users\Ayush\source\repos\Data\obj\Debug\net8.0\ref\SD_Data.dll

@@ -1,0 +1,17 @@
+C:\Users\Ayush\source\repos\SD_Core\bin\Debug\net8.0\SD_Core.deps.json
+C:\Users\Ayush\source\repos\SD_Core\bin\Debug\net8.0\SD_Core.runtimeconfig.json
+C:\Users\Ayush\source\repos\SD_Core\bin\Debug\net8.0\SD_Core.dll
+C:\Users\Ayush\source\repos\SD_Core\bin\Debug\net8.0\SD_Core.pdb
+C:\Users\Ayush\source\repos\SD_Core\obj\Debug\net8.0\SD_Core.csproj.AssemblyReference.cache
+C:\Users\Ayush\source\repos\SD_Core\obj\Debug\net8.0\SD_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayush\source\repos\SD_Core\obj\Debug\net8.0\SD_Core.AssemblyInfoInputs.cache
+C:\Users\Ayush\source\repos\SD_Core\obj\Debug\net8.0\SD_Core.AssemblyInfo.cs
+C:\Users\Ayush\source\repos\SD_Core\obj\Debug\net8.0\SD_Core.csproj.CoreCompileInputs.cache
+C:\Users\Ayush\source\repos\SD_Core\obj\Debug\net8.0\SD_Core.csproj.Up2Date
+C:\Users\Ayush\source\repos\SD_Core\obj\Debug\net8.0\SD_Core.dll
+C:\Users\Ayush\source\repos\SD_Core\obj\Debug\net8.0\refint\SD_Core.dll
+C:\Users\Ayush\source\repos\SD_Core\obj\Debug\net8.0\SD_Core.pdb
+C:\Users\Ayush\source\repos\SD_Core\obj\Debug\net8.0\SD_Core.genruntimeconfig.cache
+C:\Users\Ayush\source\repos\SD_Core\obj\Debug\net8.0\ref\SD_Core.dll
+C:\Users\Ayush\source\repos\SD_Core\bin\Debug\net8.0\SD_Data.dll
+C:\Users\Ayush\source\repos\SD_Core\bin\Debug\net8.0\SD_Data.pdb
